@@ -1,0 +1,31 @@
+
+.container1{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+    background-color: aqua;
+    background-image: url(img4.jpg);
+    background-size: cover;
+    position: relative;
+}
+.setFrame{
+    width: 33.33%;
+    height: 100%;
+    display: flex;
+    
+}
+.setImg{
+    width: 250px;
+    height: 350px;
+    margin: auto;
+    box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+    border: 5px solid pink;
+    box-sizing: border-box;
+}
+.name{
+    position: absolute;
+    font-family: 'Italianno', cursive;
+    font-size: 40px;
+    color: rgb(255, 0, 43);
+}
