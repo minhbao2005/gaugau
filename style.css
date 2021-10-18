@@ -22,7 +22,7 @@
     box-shadow: rgb(0, 0, 0) 0px 5px 15px;
     border: 5px solid pink;
     box-sizing: border-box;
-    image-orientation: from-img;
+    image-orientation: from-image;
 
 }
 .name{
