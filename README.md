@@ -1,1 +1,2 @@
 # gaugau
+ Orientation: BottomRight
